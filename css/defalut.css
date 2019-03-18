@@ -1,0 +1,227 @@
+@media  (max-width:1440px ) {
+	 .main-text h1{
+   	 font-size: 28px;
+   	 padding: 0;
+   }
+}
+@media (max-width: 1439px) and (min-width: 1200px){
+	.section-box{
+   	height: 550px;
+   }
+  
+}
+@media (max-width: 1199px) and (min-width: 992px){
+   .section-box {
+    height: 500px;
+	}
+	main{
+		padding: 70px 0;
+	}
+	.li-pic span{
+		font-size: 40px;
+	}
+	.li-box{
+		padding: 28px 0;
+	}
+}
+@media (max-width: 991px) and (min-width: 768px){
+   .section-box {
+    height: 400px;
+	}
+	main{
+		padding: 40px 0;
+	}
+	.li-box{
+		padding: 34px 0;
+	}
+	
+}
+@media  (max-width:1200px ) {
+	.footer-box ul li{
+		height: auto;
+		font-size: 12px;
+	}
+	.box-title .title{
+		font-size: 14px;
+	}
+	.search-box{
+		width: 500px;
+	}
+	.text-box h1{
+   	font-size: 24px;
+   }
+   .text-box h2{
+   	font-size: 14px;
+   	padding-bottom: 23px;
+   }
+   .video h1{
+   	font-size: 16px;
+   	padding-bottom: 10px;
+   }
+   .video p{
+   	display: none;
+   }
+  
+}
+@media (max-width:990px ) {
+    .ulhidden{
+    	display: none;
+    }
+    .box-title{
+    	width: 15%;
+    }
+    .hotline{
+    	width: 25%;
+    }
+   .lihidden{
+   	display: none;
+   }
+   .text-box h1{
+   	font-size: 24px;
+   }
+   .text-box h2{
+   	font-size: 14px;
+   	padding-bottom: 23px;
+   }
+   .search-box{
+   		padding: 10px;
+   }
+   .search-box input{
+   	font-size: 12px; 
+   }
+    .video h1{
+   	font-size: 14px;
+   	padding-bottom: 10px;
+   	font-weight: 700;
+   }
+   .hot-problem li{
+   	width: 100%;
+   }
+}
+@media (max-width:768px ) {
+	.box-title{		
+	float: none;
+	width: auto;
+	padding: 10px 0;
+	border-bottom: 1px solid #EBEBEB;
+	}
+	.footer-box{
+		padding-top: 10px;
+	}
+	footer{
+		background: white;
+	}
+	.box-title .title{
+		color: black;
+	}
+	.box-list{
+		display: none;
+	}
+	.box-list li{
+		padding: 10px;
+	}
+	.box-title span{
+	   display: block;
+	}
+	.hotline{
+		width: 100%;
+	}
+	.hotline h4{
+		width: 48%;
+		display: inline-block;
+	    padding: 14px 0;
+		border: 1px solid #EBEBEB;
+		font-size: 18px;
+	}
+	.line{
+		width: 48%;
+		display: inline-block;
+	    padding: 14px 0;
+		border: 1px solid #EBEBEB;
+	}
+	.hotline p{	
+		width: 100%;
+	}
+	.bottom-logo{
+		display: none;
+	}
+	.bottom-list{
+		display: none;
+	}
+	.share{
+		display: inline-block;
+		float: none;
+		position: relative;
+		left: 50%;
+		transform: translateX(-50%);
+	}
+	.mas-logo{
+		width: 100%;
+		text-align: center;
+		padding: 10px 0;
+	}
+	.bottom-text{
+		display: block;
+		text-align: center;
+	}
+	.texthide{
+		display: none;
+	}
+	.bottom-con{
+		border-bottom: none;
+	}
+	.ulhidden{
+		display: block;
+	}
+	.nav-two{
+		display: block;
+	}
+	header{
+		display: none;
+	}
+	.search-box{
+		width: 330px;
+	}
+	.text-box h2{
+		display: none;
+	}
+	.text-box h1{
+		font-size: 20px;
+		margin-bottom: 30px;
+	}
+	.section-box{
+		height: 300px;
+	}
+	.main-text{
+		display: none;
+	}
+	main{
+		padding: 0;
+		padding-top: 10px ;
+		padding-bottom: 0px;
+	}
+	.li-box{
+		margin: 2px;
+		padding: 8px 0;
+	}
+	.li-pic span{
+		font-size: 34px;
+	}
+	.li-box p{
+		font-size: 14px;
+		font-weight: bold;
+		padding: 0;
+	}
+	.video ul li{
+		width: 100%;
+	}
+	.hot-problem li{
+   	display: none;
+   }
+   .li-box:hover{
+	box-shadow: none;
+   }
+   .nav-box{
+   	display: flex;
+   }
+}
